@@ -2,7 +2,7 @@
 2. cd \api_customer
 3. composer install
 4. copy .env.example file. After that change name to .env
-4. creat database name = laravel
+4. create database name = laravel
 5. php artisan migrate
 7. php artisan key:generate
 6. php artisan config:cache 
